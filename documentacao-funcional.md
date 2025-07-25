@@ -4,7 +4,7 @@
 
   ## Exemplo de documentação
   
-# Bytebank (Conctexto)
+# Bytebank (Contexto)
 A Bytebank é um banco digital que foi criado com o objetivo se simplificar a vida financeira dos brasileiros.
 
 (Sumário ou Table of contents)
@@ -26,9 +26,9 @@ No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto r
 Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de ![Como criar sua conta]
 
   
-###contextualiza e apresenta
-  o que é o produto
-  breve contexto de seu uso
-  recursos disponíveis
-  pra quem é/serve?
-  principais conceitos
+### contextualiza e apresenta
+- o que é o produto
+- breve contexto de seu uso
+- recursos disponíveis
+- pra quem é/serve?
+- principais conceitos
